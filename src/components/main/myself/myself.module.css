@@ -1,0 +1,13 @@
+.contenedor{
+  width: 1100px;
+  margin: 32px auto 0px auto;
+  display: flex;
+}
+.contenedor1{
+  width: 60%;
+}
+
+
+.contenedor2{
+  width: 40%;
+}
