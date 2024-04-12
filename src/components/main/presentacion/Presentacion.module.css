@@ -1,6 +1,6 @@
 .presentacion{
   position: relative;
-  background: linear-gradient(90deg,#1c5c4e, #0d4f91, white, red);
+  background: linear-gradient(90deg,#01183e, #022b54, rgb(2, 29, 99), rgb(1, 8, 150));
   height: 346px;
   width:100%;
   margin: 0;
@@ -27,9 +27,10 @@
 
 .presentacion_block1 h1{
   font-size: 32px;
+  color: white;
 }
 .presentacion_block1 h2{
-  background: linear-gradient(95deg,rgb(25, 25, 100), rgb(92, 26, 26));
+  background: linear-gradient(95deg,rgb(199, 187, 10), rgb(180, 8, 8));
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
 }
@@ -38,6 +39,7 @@
 }
 .presentacion_sticks p{
   margin-right: 24px;
+  color: white;
 }
 .presentacion_block2{
  width: 300px;

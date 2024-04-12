@@ -1,7 +1,14 @@
+.todo{
+  background: #01183e;  
+}
+
 .contenedor{
   width: 1100px;
   margin: 32px auto 0px auto;
   display: flex;
+  align-items: center;
+  color: white;
+  padding: 32px;
 }
 .contenedor1{
   width: 60%;
@@ -10,4 +17,26 @@
 
 .contenedor2{
   width: 40%;
+}
+.contenedor2 div{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.contenedor2 div:nth-child(1){
+  width: 320px;
+  margin: 0 auto;
+  border-radius: 12px;
+  /* box-shadow: 0px 0px 24px -4px black; */
+  transition: box-shadow 300ms ease-in-out, transform 300ms ease-in-out;
+}
+.contenedor2 div:nth-child(2) ul{
+  display: flex;
+  gap: 8px;
+  list-style: none;
+}
+.contenedor2 div:nth-child(2) a{
+  margin: 0 4px;
+  color: white;
 }

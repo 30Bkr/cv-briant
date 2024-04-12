@@ -1,7 +1,8 @@
+import styles from './Footer.module.css'
 export default function Footer(){
   return (
-    <div>
-      <p>Footer 💓</p>
-    </div>
+    <section className={styles.Footer}>
+      <p>BKR</p>
+    </section>
   )
 }

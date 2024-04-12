@@ -3,6 +3,8 @@
   height: 52px;
   border-bottom: 1px solid transparent;
   box-shadow: 0px 0px 19px -10px white;
+  background: #00122f;
+  color: white;
 }
 .header ul{
   margin: 0;
