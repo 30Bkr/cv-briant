@@ -11,8 +11,8 @@ export default function Home() {
     <>
       <Presentacion />
       <Cursos />
+      <Proyects />
       <Myself />
-      {/* <Proyects /> */}
       <Footer />
     </>
 

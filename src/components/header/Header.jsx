@@ -26,9 +26,9 @@ export default function Header(){
           </Link>
         </li>
         <li>
-          <Link href='https://wa.me/+584149105229'>
+          <a href='https://wa.me/+584149105229' target='_blank'>
             Contact
-          </Link>
+          </a>
         </li>
       </ul>
     </header>

@@ -16,12 +16,12 @@ const proyectos = [
   {
     title:'Proyecto',
     image:'/images/ProyectoComprimido.png',
-    content: 'Proyecto personal con fines educativos creado con next y',
+    content: 'Proyecto personal con fines educativos creado con next y tailwind',
   }
 ]
 export default function Proyects(){
   return(
-    <section className={styles.contenedor}> 
+    <section className={styles.contenedor} id='proyectos'> 
       <div className={styles.proyects}>
         {proyectos.map((object)=>(
           <ProyectCard info={object} key={proyectos.findIndex(name=> name.title === object.title)}/>
