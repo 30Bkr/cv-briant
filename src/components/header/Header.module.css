@@ -21,4 +21,9 @@
 .header a{
   text-decoration: none;
   color: white;
+  transition: color 300ms ease-in-out, color 300ms ease-in-out;
+}
+.header a:hover{
+  color: rgb(201, 34, 62);
+  
 }

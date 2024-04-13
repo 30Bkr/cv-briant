@@ -7,7 +7,7 @@ export default function Header(){
       <ul>
         <li>
           <Link href='/#inicio'>
-            Inicio
+            Home
           </Link>
         </li>
         <li>
@@ -20,16 +20,16 @@ export default function Header(){
             Cursos
           </Link>
         </li>
-        {/* <li>
+        <li>
           <Link href='/#proyectos'>
-            Proyectos
+            Proyects
           </Link>
         </li>
         <li>
-          <Link href='/#contact'>
+          <Link href='https://wa.me/+584149105229'>
             Contact
           </Link>
-        </li> */}
+        </li>
       </ul>
     </header>
   )
