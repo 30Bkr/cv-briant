@@ -39,4 +39,9 @@
 .contenedor2 div:nth-child(2) a{
   margin: 0 4px;
   color: white;
+  transition: color 300ms ease-in-out, color 300ms ease-in-out;
+}
+.contenedor2 div:nth-child(2) a:hover {
+  margin: 0 4px;
+  color: rgb(201, 34, 62);
 }

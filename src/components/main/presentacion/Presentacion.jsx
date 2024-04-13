@@ -3,7 +3,7 @@ import Image from "next/image";
 
 export default function Presentacion(){
   return (
-    <section className={styles.presentacion}>
+    <section className={styles.presentacion} id='inicio'>
       <div className={styles.presentacion_block0}>
         <div className={styles.presentacion_block1}>
           <h1>Briant Carrillo Sanchez Alessandro</h1>

@@ -17,5 +17,8 @@
 }
 .header li{
   margin-right: 8px;
-
+}
+.header a{
+  text-decoration: none;
+  color: white;
 }
