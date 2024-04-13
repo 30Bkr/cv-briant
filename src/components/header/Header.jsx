@@ -20,7 +20,7 @@ export default function Header(){
             Cursos
           </Link>
         </li>
-        {/* <li>
+        <li>
           <Link href='/#proyectos'>
             Proyectos
           </Link>
@@ -29,7 +29,7 @@ export default function Header(){
           <Link href='/#contact'>
             Contact
           </Link>
-        </li> */}
+        </li>
       </ul>
     </header>
   )
