@@ -21,6 +21,7 @@ export default function Presentacion(){
             alt='Briant Carrillo'
             width={300} 
             height={400}
+            id='img'
           />
         </div>
       </div>

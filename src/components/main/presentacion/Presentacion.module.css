@@ -22,7 +22,6 @@
   padding: 24px 0;
   display: flex;
   flex-direction: column;
-  justify-content: center;
 }
 
 .presentacion_block1 h1{
@@ -43,4 +42,46 @@
 }
 .presentacion_block2{
  width: 300px;
+}
+@media (max-width: 720px){
+  .presentacion_block1{
+    padding: 0px;
+    width: 60%;
+  }
+  .presentacion_block1 h1{
+    font-size: 16px;
+  }
+  .presentacion_block1 h2{
+    font-size: 16px;
+  }
+  .presentacion_sticks {
+    display: block;
+  }
+  .presentacion_sticks p{
+    font-size: small;
+  }
+  .presentacion_block0 {
+    width: 100%;
+    padding: 8px;
+  }
+  .presentacion_block2{
+    width: 40%;
+  }
+  .presentacion_block2 img{
+    width: 200px;
+    height: 266px;
+    position: relative;
+    right: 70px;
+  }
+  .presentacion{
+    height: 274px;
+  }
+}
+@media (min-width: 721px) {
+  .presentacion_block1{
+    display: flex;
+  flex-direction: column;
+  justify-content: center;
+  }
+
 }
