@@ -6,7 +6,7 @@ export default function Presentacion(){
     <section className={styles.presentacion} id='inicio'>
       <div className={styles.presentacion_block0}>
         <div className={styles.presentacion_block1}>
-          <h1>Briant Carrillo Sanchez Alessandro</h1>
+          <h1>Briant Alessandro Carrillo Sanchez </h1>
           <h2>Front-end Developer</h2>
           <div className={styles.presentacion_sticks}>
             <p>⭐25 años</p>

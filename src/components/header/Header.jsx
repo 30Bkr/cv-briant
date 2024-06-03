@@ -17,7 +17,7 @@ export default function Header(){
         </li>
         <li>
           <Link href='/#cursos'>
-            Cursos
+            Courses
           </Link>
         </li>
         <li>
