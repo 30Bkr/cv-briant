@@ -27,3 +27,9 @@
   color: rgb(201, 34, 62);
   
 }
+@media (max-width: 820px){
+  .header ul{
+    display: none;
+    
+  }
+}

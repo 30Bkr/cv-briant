@@ -45,3 +45,40 @@
   margin: 0 4px;
   color: rgb(201, 34, 62);
 }
+@media (max-width:720px){
+  .contenedor{
+    display: block;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    padding-bottom: 8px;
+  }
+  .contenedor1{
+    font-size: small;
+    padding: 16px;
+    box-sizing: border-box;
+    width: 100%;
+    
+  }
+  .contenedor2{
+    width: 100%;
+  }
+  .habilidades ul{
+    display: none;
+  }
+  .habilidades h3{
+    display: none;
+  }
+  .redes{
+  width: 200px;
+  margin: 0 auto;
+  }
+  .redes ul{
+    width: 100%;
+    margin: 0 auto
+  }
+  .redes h3{
+    display: none;
+  }
+  
+}

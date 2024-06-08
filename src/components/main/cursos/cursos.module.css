@@ -4,5 +4,12 @@
 }
 .contenedor2{
   display: flex;
-  flex-wrap: wrap;
+  flex-direction: column;
+  
+}
+@media (max-width: 1200px){
+  .contenedor{
+    width: 100%;
+  }
+
 }

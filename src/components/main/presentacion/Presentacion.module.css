@@ -78,7 +78,7 @@
     height: 274px;
   }
 }
-@media (max-width: 821px) {
+@media screen and (min-width: 721px) and (max-width: 821px){
   .presentacion_sticks{
     display: block;
   }

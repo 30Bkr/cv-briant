@@ -11,7 +11,7 @@ export default function Myself(){
           <h4>Actualmente estoy estudiando ingeniería informática y programación en Platzi.com</h4>
         </div>
         <div className={styles.contenedor2}>
-          <div>
+          <div className={styles.habilidades}>  
             <h3>Habilidades</h3>
             <ul>
               <li>Creatividad</li>
@@ -20,7 +20,7 @@ export default function Myself(){
               <li>Iniciativa</li>
             </ul>
           </div>
-          <div>
+          <div className={styles.redes}>
             <h3>Redes Sociales</h3>
             <ul>
               <li>
