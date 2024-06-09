@@ -55,8 +55,8 @@
   margin-left: 8px;
 
 }
-/* @media (max-width: 480px){
+@media (max-width: 770px){
   .contenedor{
     width: 320px;
   }
-} */
+}

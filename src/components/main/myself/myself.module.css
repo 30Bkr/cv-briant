@@ -45,7 +45,7 @@
   margin: 0 4px;
   color: rgb(201, 34, 62);
 }
-@media (max-width:720px){
+@media (max-width:820px){
   .contenedor{
     display: block;
     width: 100%;

@@ -18,3 +18,12 @@
 .proyect_container_text{
   margin: 0 16px;
 }
+
+@media (max-width:1024px){
+  .proyect_container{
+    width: 320px;
+    
+    
+  }
+}
+
