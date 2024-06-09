@@ -4,6 +4,9 @@ body{
   background-color: #ffffff;
   color: black;
   box-sizing: border-box!important;
+  overflow-x: hidden!important;
+}
+html{
   overflow-x: hidden;
 }
 a {

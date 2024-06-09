@@ -11,6 +11,11 @@
 @media (max-width: 1200px){
   .contenedor{
     width: 100%;
+    box-sizing: border-box;
+  }
+  .contenedor2{
+    width: 100%;
+    box-sizing: border-box;
   }
   .contenedor h2{
     margin-left: 16px;

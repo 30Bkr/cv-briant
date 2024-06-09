@@ -2,6 +2,7 @@
   position: relative;
   background: linear-gradient(90deg,#01183e, #023e7b, rgb(2, 29, 99), #01183e, rgb(1, 7, 119));
   height: 346px;
+  box-sizing: border-box;
   width:100%;
   margin: 0;
   margin-bottom: 38px;
@@ -62,6 +63,7 @@
     font-size: small;
   }
   .presentacion_block0 {
+    /* box-sizing: border-box; */
     width: 100%;
     padding: 8px;
     margin: 0 auto;

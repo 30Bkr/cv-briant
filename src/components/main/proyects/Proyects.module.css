@@ -3,12 +3,14 @@
   margin: 0 auto;
 }
 .proyects{
+  box-sizing: border-box;
   width: 100%;
   margin: 0 auto;
   display: flex;
 }
 @media (max-width:730px){
   .contenedor{
+    box-sizing: border-box;
     width: 100%;
   }
   .contenedor h1{
@@ -22,7 +24,8 @@
 }
 @media screen and (min-width:730px) and (max-width:1024px) {
   .contenedor{
-    width: 100vw;
+    box-sizing: border-box;
+    width: 100%;
   }
   .proyects{
     display: grid;
