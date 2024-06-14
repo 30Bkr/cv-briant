@@ -12,7 +12,6 @@ export default function Presentacion(){
             <p>⭐25 años</p>
             <p>📖Estudiante</p>
             <p>⚽Deportista</p>
-            <p>⛰️Amante de la vida</p>
           </div>
         </div>
         <div  className={styles.presentacion_block2}>  
